@@ -9,7 +9,7 @@ let images = [
   "https://raw.githubusercontent.com/hioihia123/ZeroDollarProject/main/39441672_149571589285191_5941930225716690944_n.jpg",
   "https://raw.githubusercontent.com/hioihia123/ZeroDollarProject/main/121550489_1537753659768827_423230520650421600_n.jpg",
   "https://raw.githubusercontent.com/hioihia123/ZeroDollarProject/main/121529742_1537753699768823_8979133002177125161_n.jpg",
-  "https://raw.githubusercontent.com/hioihia123/ZeroDollarProject/main/250297678_305997031246112_8075538592521902187_n.jpg",
+  "https://raw.githubusercontent.com/hioihia123/artgallery/main/248565909_840352469978219_5969166594690498870_n.jpg",
 ];
 let current = 0;
 let playing = false;
